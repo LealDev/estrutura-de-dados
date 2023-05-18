@@ -1,7 +1,5 @@
 package lista;
 
-import lista.Item;
-
 public class LdeItem {
 	private NoDuploItem prim, ult;
 	private int quant;
